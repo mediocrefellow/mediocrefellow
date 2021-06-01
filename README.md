@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @mediocrefellow I'm a former game coder/web designer and dev. I no longer code but I still do design work and sound engineering.
+I also have a lot of ideas and have a great mind for high concept devopment. I'm very into crypto currency and NFTs at the moment. I was part of the
+Fundfindr.com core team in 2008, which was among the first pioneers of social media crowd funding when web 2.0 was just beginning to gain traction (7 years before kickstarter).
+I can contribute original soundtracks, voiceover, promotional materials, illustration, marketing images and copy etc. 
+- 👀 I’m interested in Music, Art, GUI and UX, gaming, UI, Machine Learning cryptocurrency and blockchain based technology....
+- 🌱 I’m currently learning every day...
+- 💞️ I’m looking to collaborate on interesting projects with social conscience....
+- 📫 How to reach me: telegram @mediocrefellow ...
+
+<!---
+mediocrefellow/mediocrefellow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
